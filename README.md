@@ -1,8 +1,8 @@
-# <div align="center">✨ Sasmitha Silva ✨</div>
+# <div align="center">Sasmitha Danidu Silva</div>
 
 <div align="center">
   
-### Full-Stack Developer | Cloud Enthusiast | System Architect in the Making
+### Full-Stack Developer | Cloud & Cybersecurity Enthusiast | Social Impact Volunteer
 
 *Transforming ideas into scalable digital experiences*
 
@@ -101,26 +101,10 @@ Streamline volunteer management for university clubs with automated scheduling, 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-![Sasmitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sasmitha-Silva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasmitha-Silva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sasmitha-Silva&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
-
----
-
-## 💭 Wisdom Corner
-
-<div align="center">
-
-*"First, solve the problem. Then, write the code."* — John Johnson
-
-*"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-*"The best error message is the one that never shows up."* — Thomas Fuchs
 
 </div>
 
@@ -138,8 +122,6 @@ I'm always excited to collaborate on innovative projects, discuss tech trends, o
 <div align="center">
 
 ### ⭐ If you find my projects interesting, consider giving them a star!
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sasmitha-Silva&color=blueviolet&style=for-the-badge)
 
 </div>
 
