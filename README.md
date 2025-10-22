@@ -76,6 +76,7 @@ const sasmitha = {
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sasmitha-Silva&theme=tokyonight&hide_border=true&background=0D1117)
 
 </div>
+
 ---
 
 ## 🚀 Featured Projects
