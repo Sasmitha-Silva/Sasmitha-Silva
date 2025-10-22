@@ -12,7 +12,39 @@
 
 </div>
 
+---
 
+## 🎯 About Me
+
+```javascript
+const sasmitha = {
+    location: "Colombo, Sri Lanka 🇱🇰",
+    education: "BSc in Computer Science @ UCSC",
+    currentFocus: ["Full-Stack Development", "Middleware Architecture", "AI Integration"],
+    philosophy: "Building software that matters, one commit at a time",
+    funFact: "I debug with console.log() and I'm not ashamed 😄"
+};
+```
+
+🌱 **Currently Exploring:** Kubernetes, CI/CD pipelines, and microservices architecture  
+💡 **Always Curious About:** How to write cleaner code and ship faster
+
+---
+
+## 🛠️ Technology Arsenal
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,6 +66,8 @@
 </div>
 
 ---
+
+## 🚀 Featured Projects
 
 ## 🚀 Featured Projects
 
@@ -100,7 +134,6 @@ Below are selected projects with condensed details — technologies, features, i
 ---
 
 
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -125,4 +158,3 @@ I'm always excited to collaborate on innovative projects, discuss tech trends, o
 ### ⭐ If you find my projects interesting, consider giving them a star!
 
 </div>
-
