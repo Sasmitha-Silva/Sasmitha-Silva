@@ -67,6 +67,17 @@ const sasmitha = {
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasmitha-Silva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sasmitha-Silva&theme=tokyonight&hide_border=true&background=0D1117)
+
+</div>
+---
+
 ## 🚀 Featured Projects
 
 Below are selected projects with condensed details — technologies, features, impact and links where available.
@@ -99,17 +110,6 @@ Below are selected projects with condensed details — technologies, features, i
 **Impact:** Reduced assessment time from weeks to under 14 days; improved transparency in agreements; enabled land utilization and sustainable farming.  
 **Repo:** https://github.com/sasmitha-silva/green-lease
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasmitha-Silva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sasmitha-Silva&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
 ---
 
 ## 🤝 Let's Connect!
