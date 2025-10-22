@@ -69,29 +69,7 @@ const sasmitha = {
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 Below are selected projects with condensed details — technologies, features, impact and links where available.
-
-### 🌱 Green Lease
-**Description:** Comprehensive digital platform that converts unused lands into productive farms by enabling land leasing, cultivation management, and crop sales.
-
-**Tech Stack:** PHP • JavaScript • HTML • CSS  
-**Key Features:** Landowner registration, digital suitability assessments, profit-sharing agreement management, cultivation progress tracking, document e-signatures, supervisor dashboards, notifications, mobile-friendly UI.  
-**Impact:** Reduced assessment time from weeks to under 14 days; improved transparency in agreements; enabled land utilization and sustainable farming.  
-**Repo:** https://github.com/sasmitha-silva/green-lease
-
----
-
-### 🎮 Game Summit
-**Description:** Interactive web platform for Sri Lanka’s gaming community — discover games, publish releases, share reviews and engage with other players.
-
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB • REST APIs • JWT  
-**Key Features:** Game catalog, user submissions, review & rating system, search & filters, discussion threads, user profiles, admin moderation.  
-**Impact:** Improved discoverability of local indie games and fostered an active Sri Lankan gaming community.  
-**Repo:** https://github.com/sasmitha-silva/game-summit
-
----
 
 ### 🤝 ClubSync
 **Description:** Modern club management system for university and community-based organizations — member management, events, analytics and QR check-ins.
@@ -100,16 +78,6 @@ Below are selected projects with condensed details — technologies, features, i
 **Key Features:** Member profiles, event RSVPs, interview scheduling, file sharing, certificate generation, QR-based event check-in, analytics dashboard, role-based access.  
 **Impact:** Adopted by 15+ university clubs; improved event attendance tracking by 90%; reduced admin workload by ~50%.  
 **Repo:** https://github.com/Sasmitha-Silva/ClubSync-Web
-
----
-
-### ⚙️ Pub/Sub Messaging System
-**Description:** High-performance publish-subscribe messaging system built with Python sockets for real-time communication.
-
-**Tech Stack:** Python • Socket Programming • Threading • TCP/IP  
-**Key Features:** Multi-threaded server, topic-based routing, real-time broadcasting, publisher/subscriber clients, graceful disconnection handling, CLI deployment.  
-**Impact:** Demonstrated distributed systems concepts with reliable message delivery and efficient concurrent connection handling.  
-**Repo:** https://github.com/Sasmitha-Silva/pubsub-messaging-system
 
 ---
 
@@ -123,16 +91,15 @@ Below are selected projects with condensed details — technologies, features, i
 
 ---
 
-### 🌿 EcoTrack
-**Description:** Cross-platform tracker and gamification platform to help users reduce their carbon footprint — mobile + web with centralized API and database.
+### 🌱 Green Lease
+**Description:** Comprehensive digital platform that converts unused lands into productive farms by enabling land leasing, cultivation management, and crop sales.
 
-**Tech Stack:** React Native • Expo • Next.js • ASP.NET Core • PostgreSQL • TypeScript  
-**Key Features:** Activity logging, carbon calculator, points & achievements, team leaderboards, photo verification with manual review.  
-**Status:** Planning (MVP roadmap available)  
-**Impact:** Provided an MVP roadmap for organizations to adopt sustainable challenges and established cross-platform sync patterns.  
+**Tech Stack:** PHP • JavaScript • HTML • CSS  
+**Key Features:** Landowner registration, digital suitability assessments, profit-sharing agreement management, cultivation progress tracking, document e-signatures, supervisor dashboards, notifications, mobile-friendly UI.  
+**Impact:** Reduced assessment time from weeks to under 14 days; improved transparency in agreements; enabled land utilization and sustainable farming.  
+**Repo:** https://github.com/sasmitha-silva/green-lease
 
 ---
-
 
 ## 📊 GitHub Analytics
 
