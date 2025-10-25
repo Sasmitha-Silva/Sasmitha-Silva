@@ -79,40 +79,6 @@ const sasmitha = {
 
 ---
 
-## 🚀 Featured Projects
-
-Below are selected projects with condensed details — technologies, features, impact and links where available.
-
-### 🤝 ClubSync
-**Description:** Modern club management system for university and community-based organizations — member management, events, analytics and QR check-ins.
-
-**Tech Stack:** Next.js • React.js • PostgreSQL • JavaScript • TypeScript • Prisma ORM • Tailwind CSS  
-**Key Features:** Member profiles, event RSVPs, interview scheduling, file sharing, certificate generation, QR-based event check-in, analytics dashboard, role-based access.  
-**Impact:** Adopted by 15+ university clubs; improved event attendance tracking by 90%; reduced admin workload by ~50%.  
-**Repo:** https://github.com/Sasmitha-Silva/ClubSync-Web
-
----
-
-### 🤖 HopeBot
-**Description:** A compassionate AI mental health support chatbot focused on empathetic conversation and crisis resources.
-
-**Tech Stack:** Next.js • React • TypeScript • Tailwind CSS • Google Gemini  
-**Key Features:** Crisis detection & routing, anonymous chat, mood tracking, wellness exercises, system prompt customization.  
-**Impact:** Reduced help-seeking friction by enabling anonymous support and demonstrated responsible AI integration for mental health.  
-**Repo:** https://github.com/Sasmitha-Silva/hopebot
-
----
-
-### 🌱 Green Lease
-**Description:** Comprehensive digital platform that converts unused lands into productive farms by enabling land leasing, cultivation management, and crop sales.
-
-**Tech Stack:** PHP • JavaScript • HTML • CSS  
-**Key Features:** Landowner registration, digital suitability assessments, profit-sharing agreement management, cultivation progress tracking, document e-signatures, supervisor dashboards, notifications, mobile-friendly UI.  
-**Impact:** Reduced assessment time from weeks to under 14 days; improved transparency in agreements; enabled land utilization and sustainable farming.  
-**Repo:** https://github.com/sasmitha-silva/green-lease
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always excited to collaborate on innovative projects, discuss tech trends, or simply chat about code over virtual coffee ☕
